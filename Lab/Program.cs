@@ -13,4 +13,9 @@ namespace Lab
             Console.WriteLine("Test Git");
         }
     }
+
+    class Test
+    {
+
+    }
 }
