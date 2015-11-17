@@ -10,8 +10,10 @@ namespace Lab
     {
         static void Main(string[] args)
         {
-            
-            TestSorting.Bubble();
+            new Tasks().Test();
+
+
+            //TestSorting.Bubble();
 
             Console.Read();
         }
